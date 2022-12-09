@@ -1,0 +1,183 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2021-08-14 12:41:09.903021",
+
+  "appTitle": "MiniShop",
+  "@appTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  
+  "selectCategory": "Selecte Category",
+  "@selectCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  
+  "viewAll": "view all",
+  "@viewAll": {
+    "type": "text",
+    "placeholders": {}
+  },
+  
+ "phonesCategory": "Phones",
+  "@phonesCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+ "computerCategory": "Computer",
+  "@computerCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+ "healthCategory": "Health",
+  "@healthCategory": {
+    "type": "text",
+    "placeholders": {}
+  },
+ "booksCategory": "Books",
+  "@booksCategory": {
+    "type": "text",
+    "placeholders": {}
+  }, 
+ "search": "Search",
+  "@search": {
+    "type": "text",
+    "placeholders": {}
+  },
+ "seeMore": "see more",
+  "@seeMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+ "newProduct": "New",
+  "@newProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+ "buyNow": "Buy now!",
+  "@buyNow": {
+    "type": "text",
+    "placeholders": {}
+  }, 
+ "explorerNaviBar": "Explorer",
+  "@explorerNaviBar": {
+    "type": "text",
+    "placeholders": {}
+  },  
+ "filterOptions": "Filter options",
+  "@filterOptions": {
+    "type": "text",
+    "placeholders": {}
+  },  
+ "doneAction": "Done",
+  "@doneAction": {
+    "type": "text",
+    "placeholders": {}
+  }, 
+ "filterBrand": "Brand",
+  "@filterBrand": {
+    "type": "text",
+    "placeholders": {}
+  }, 
+ "filterPrice": "Price",
+  "@filterPrice": {
+    "type": "text",
+    "placeholders": {}
+  }, 
+ "filterSize": "Size",
+  "@filterSize": {
+    "type": "text",
+    "placeholders": {}
+  },  
+ "productDetailsHeader": "Product Details",
+  "@productDetailsHeader": {
+    "type": "text",
+    "placeholders": {}
+  },  
+ "tabShop": "Shop",
+  "@tabShop": {
+    "type": "text",
+    "placeholders": {}
+  },    
+ "tabDetails": "Details",
+  "@tabDetails": {
+    "type": "text",
+    "placeholders": {}
+  },    
+ "tabFeatures": "Features",
+  "@tabFeatures": {
+    "type": "text",
+    "placeholders": {}
+  }, 
+ "selectOption": "Select color and capacity",
+  "@selectOption": {
+    "type": "text",
+    "placeholders": {}
+  },  
+
+ "addToCart": "Add to Cart",
+  "@addToCart": {
+    "type": "text",
+    "placeholders": {}
+  },   
+ "addAddress": "Add address",
+  "@addAddress": {
+    "type": "text",
+    "placeholders": {}
+  }, 
+ "cartTitle": "My Cart",
+  "@cartTitle": {
+    "type": "text",
+    "placeholders": {}
+  },  
+ "totalPrice": "Total",
+  "@totalPrice": {
+    "type": "text",
+    "placeholders": {}
+  },  
+ "deliveryType": "Delivery",
+  "@deliveryType": {
+    "type": "text",
+    "placeholders": {}
+  },  
+ "checkout": "Checkout",
+  "@checkout": {
+    "type": "text",
+    "placeholders": {}
+  },                
+ "hotSales": "Hot sales",
+  "@hotSales": {
+    "type": "text",
+    "placeholders": {}
+  },
+ "bestSeller": "Best Seller",
+  "@bestSeller": {
+    "type": "text",
+    "placeholders": {}
+  },  
+  "pageNotFoundTitle": "Error",
+  "@pageNotFoundTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+    "emptyData": "(empty)",
+  "@emptyData": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "pageNotFoundDesc": "Page not found",
+  "@pageNotFoundDesc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  
+  "serverError": "Server error",
+  "@serverError": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+}
